@@ -30,7 +30,7 @@ Unlike standard Vision-Language Models (VLMs), which process text and images joi
    - Combines modality-specific outputs  
    - Produces the final, grounded response  
 
-![Architecture Diagram](images/msrag_architecture.png) <!-- replace with actual path -->
+![Architecture Diagram](images/msrag_architecture.PNG)
 
 ---
 
