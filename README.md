@@ -3,7 +3,7 @@
 MS-RAG (Modality Split RAG) is a framework for **multimodal Retrieval-Augmented Generation (RAG)** that separates **text** and **image** reasoning pipelines to improve accuracy when answering questions about scientific papers and other multimodal documents. 
 Unlike standard Vision-Language Models (VLMs), which process text and images jointly, MS-RAG assigns **specialized models** to each modality and aggregates their outputs for final response generation.
 
-> **Note**: This project has been **submitted to the HICSS 2025 Conference** and is awaiting review. A finalized and fully cleaned-up code release will be coming soon.
+> **Note**: This project has been **submitted to the HICSS 2026 Conference** and is awaiting review. A finalized and fully cleaned-up code release will be coming soon.
 
 ---
 
